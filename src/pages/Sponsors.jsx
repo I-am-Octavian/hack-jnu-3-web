@@ -4,12 +4,21 @@ import PolygonLogo from "../assets/SponsorLogos/Polygon_Logo-White.png";
 import ReplitLogo from "../assets/SponsorLogos/Replit-Dark-Background.png";
 import JDoodleLogo from "../assets/SponsorLogos/JDoodle.png";
 import AbilityConnectLogo from "../assets/SponsorLogos/AbilityConnectLogo.png";
+import BobbleLogo from "../assets/SponsorLogos/Bobble.png";
 import "../styles/Sponsors.css";
 const Sponsors = () => {
   return (
     <div className="SponsorsBox ">
       <div className="SponsorsText">A Special Thanks to:</div>
       <div className="SponsorsLogos animatedContent flex justify-center items-center">
+        <div className="company Title">
+        <div className="companyLogo Bobble Title">
+            <a href="https://fanstore.bobble.ai/">
+              <img src={BobbleLogo} alt="Bobble LOGO" />
+            </a>
+          </div>
+          </div>
+        <div className="SponsorBreak" />
         <div className="company Gold">
           <div className="companyLogo DevFolio Gold">
             <a href="https://devfolio.co/">
