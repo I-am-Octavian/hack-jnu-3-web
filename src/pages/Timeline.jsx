@@ -38,9 +38,9 @@ const TimelineComponent = () => {
           <div className="TimeLineContent left">
               <div className="TLDate">
                 <p>
-                  <span>Date</span>
+                  <span>5th</span>
                   <br />
-                  TBD
+                  Jan
                 </p>
               </div>
               <div className="TLTitle">Registration Ends</div>
