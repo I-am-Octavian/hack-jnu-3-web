@@ -76,7 +76,7 @@ const AboutHackJNU = () => {
                 </div>
                 <div className="card-text">
                   HackJNU will be held Offline at the{" "}
-                  <a href="#" className="card-link">
+                  <a href="https://www.google.com/maps/place/JNU+Convention+Center/@28.5384029,77.1633206,17z/data=!3m1!4b1!4m6!3m5!1s0x390d1ddb55725eaf:0xdf1d45bdd082aedf!8m2!3d28.5384029!4d77.1658955!16s%2Fg%2F11r8zdl5s?entry=ttu" className="card-link">
                     Convention Centre, JNU
                   </a>
                 </div>
